@@ -1,0 +1,5 @@
+﻿merchant_id,month,timezone,reported_usd,calculated_usd,difference_usd,status
+101,2026-09,America/Los_Angeles,3580.00,1600.00,1980.00,金额差异
+202,2026-09,America/New_York,250.00,250.00,0.00,一致
+303,2026-09,Asia/Hong_Kong,270.00,270.00,0.00,一致
+404,2026-10,Europe/London,192.00,192.00,0.00,一致
